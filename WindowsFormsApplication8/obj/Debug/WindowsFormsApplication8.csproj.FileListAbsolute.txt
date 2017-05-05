@@ -1,0 +1,141 @@
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\itcs's developer\documents\visual studio 2012\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\New folder (4)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_4.exe
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_4.pdb
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_4.exe
+C:\Users\ITCS's Developer\Desktop\Connect 4 Debug\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_4.pdb
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_4.exe
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_4.pdb
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_4.exe
+C:\Users\ITCS's Developer\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_4.pdb
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_4.exe
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_4.pdb
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_4.exe
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_4.pdb
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\1_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCSs_TEST_PC\Desktop\1_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+H:\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+H:\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+H:\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+H:\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_5.pdb
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ITCS's Developer\Desktop\1NWP\1_2_2_2_2_2\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\ITCS's Developer\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ITCS's Developer\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\ITCS's Developer\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.exe
+C:\Users\ITCS's Developer\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_5.pdb
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_6.exe
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\bin\Debug\Connect4_mutiplay_beta1_6.pdb
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_6.exe
+I:\Back up Gmtan\Desktop\Project_connect4\WindowsFormsApplication8\obj\Debug\Connect4_mutiplay_beta1_6.pdb
